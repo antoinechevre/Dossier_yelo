@@ -74,8 +74,14 @@ yelo-monitor/
 └── README.md
 
 
-#détails 
+##détails 
 Les communes de Angoulins et Chatelaillon ne sont pas représentées dans les PNG par soucis de lisibilité de la carte mais le sont sur la carte interactive HTML.  
 
 Des fichiers pyhtons ont été créé pour justement restreindre le périmètre géographique 
+
+Allez le stade rochelais!  
+
+##licence 
+
+creative commons (cc)
 
