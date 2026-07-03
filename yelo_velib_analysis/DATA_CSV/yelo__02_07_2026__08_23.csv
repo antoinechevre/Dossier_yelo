@@ -1,0 +1,101 @@
+Id,station_nom,velos_disponibles,nombre_emplacements,timecode jour,timecode heure
+1,54 La Corniche,6,8,2026-07-02,08:23:10
+2,10 Porte Maubec,2,8,2026-07-02,08:23:10
+3,11 Porte Dauphine,4,8,2026-07-02,08:23:10
+4,20 Faculté de Sciences 2,6,10,2026-07-02,08:23:10
+5,05 Place de Verdun,5,8,2026-07-02,08:23:10
+6,26 Maison de la Charente-Maritime,4,10,2026-07-02,08:23:10
+7,04 Marché,4,8,2026-07-02,08:23:10
+8,16 Gare 2,10,14,2026-07-02,08:23:10
+9,06 Maison de la Mobilité 1,6,10,2026-07-02,08:23:10
+10,08 Vieux Port 1,0,14,2026-07-02,08:23:10
+11,03 Arsenal 1,4,8,2026-07-02,08:23:10
+12,21 Technoforum 1,1,8,2026-07-02,08:23:10
+13,15 Office de tourisme (Simenon) 2,3,8,2026-07-02,08:23:10
+14,24 EIGSI 1,4,8,2026-07-02,08:23:10
+15,13 Médiathèque Michel Crépeau 1,5,8,2026-07-02,08:23:10
+16,16 Gare 1,0,14,2026-07-02,08:23:10
+17,22 Porte de Cougnes,7,10,2026-07-02,08:23:10
+18,14 Bibliothèque Universitaire 1,0,14,2026-07-02,08:23:10
+19,07 Préfecture,3,10,2026-07-02,08:23:10
+20,25 IUT 2,7,8,2026-07-02,08:23:10
+21,02 Quai Valin 1,4,8,2026-07-02,08:23:10
+22,23 Place Cacaud 1,2,6,2026-07-02,08:23:10
+23,25 IUT 1,6,8,2026-07-02,08:23:10
+24,20 Plage des Minimes 4,0,10,2026-07-02,08:23:10
+25,12 Piscine,5,10,2026-07-02,08:23:10
+26,09 Office de Tourisme (Gabut) 1,6,10,2026-07-02,08:23:10
+27,60 Commissariat,2,8,2026-07-02,08:23:10
+28,104 Office de Tourisme de Châtelaillon,7,8,2026-07-02,08:23:10
+29,108 Vaucanson,3,14,2026-07-02,08:23:10
+30,28 Maison du Port La Pallice,4,8,2026-07-02,08:23:10
+31,29 Mairie Annexe de Laleu,4,8,2026-07-02,08:23:10
+32,30 Ludothèque de Mireuil,7,8,2026-07-02,08:23:10
+33,31 Mairie Annexe de Mireuil,4,10,2026-07-02,08:23:10
+34,32 Place St Maurice,7,10,2026-07-02,08:23:10
+35,33 Marché de Port Neuf,3,8,2026-07-02,08:23:10
+36,34 Maison de l'Emploi,6,8,2026-07-02,08:23:10
+37,37 Plage de la Concurrence 1,4,10,2026-07-02,08:23:10
+38,37 Plage de la Concurrence 2,3,10,2026-07-02,08:23:10
+39,39 Lycée Vieljeux,3,10,2026-07-02,08:23:10
+40,40 Cité Administrative Mangin,5,10,2026-07-02,08:23:10
+41,42 LEP de Rompsay,8,12,2026-07-02,08:23:10
+42,43 Mairie Annexe de Villeneuve,5,8,2026-07-02,08:23:10
+43,44 Centre Cial. de Villeneuve,4,8,2026-07-02,08:23:10
+44,45 Parking Jean-Moulin,6,14,2026-07-02,08:23:10
+45,46 Eglise de Tasdon,4,8,2026-07-02,08:23:10
+46,21 Technoforum 2,2,8,2026-07-02,08:23:10
+47,48 Plage des Minimes 1,6,10,2026-07-02,08:23:10
+48,48 Plage des Minimes 2,1,6,2026-07-02,08:23:10
+49,24 EIGSI 2,2,8,2026-07-02,08:23:10
+50,51 Gymnase Universitaire 1,8,12,2026-07-02,08:23:10
+51,102 Centre Aquatique de Châtelaillon,6,12,2026-07-02,08:23:10
+52,38 Parc Franck Delmas,4,8,2026-07-02,08:23:10
+53,53 Les Parcs,6,8,2026-07-02,08:23:10
+54,52 Port de Pêche,4,10,2026-07-02,08:23:10
+55,36 Eglise de La Genette,4,8,2026-07-02,08:23:10
+56,109 P+R Simone Veil,5,14,2026-07-02,08:23:10
+57,13 Médiathèque Michel Crépeau 2,4,8,2026-07-02,08:23:10
+58,08 Vieux Port 2,0,14,2026-07-02,08:23:10
+59,47 Institut Confucius de Chine,4,12,2026-07-02,08:23:10
+60,20 Faculté de Sciences 3,4,10,2026-07-02,08:23:10
+61,59 Place de Lafond,4,9,2026-07-02,08:23:10
+62,03 Arsenal 2,3,8,2026-07-02,08:23:10
+63,02 Quai valin 2,4,8,2026-07-02,08:23:10
+64,14 Bibliothèque Universitaire 2,2,10,2026-07-02,08:23:10
+65,21 Technoforum 3,5,8,2026-07-02,08:23:10
+66,09 Office de Tourisme (Gabut) 2,3,10,2026-07-02,08:23:10
+67,06 Maison de la Mobilité 2,2,10,2026-07-02,08:23:10
+68,24 Plage des Minimes 3,0,8,2026-07-02,08:23:10
+69,51 Gymnase Universitaire 2,3,8,2026-07-02,08:23:10
+70,15 Office de tourisme (Simenon) 1,3,12,2026-07-02,08:23:10
+71,25 IUT 3,3,8,2026-07-02,08:23:10
+72,57 Marché de la Pallice,4,8,2026-07-02,08:23:10
+73,58 Digue du Bout Blanc,6,12,2026-07-02,08:23:10
+74,61 Patte d'Oie,8,10,2026-07-02,08:23:10
+75,62 Aquarium 2,0,10,2026-07-02,08:23:10
+76,62 Aquarium 1,5,8,2026-07-02,08:23:10
+77,63 08 mai 1945,7,14,2026-07-02,08:23:10
+78,64 Aéroport,3,8,2026-07-02,08:23:10
+79,65 Alstom,5,14,2026-07-02,08:23:10
+80,66 Auberge de Jeunesse,5,10,2026-07-02,08:23:10
+81,67 Beauregard,6,14,2026-07-02,08:23:10
+82,68 Centre Commercial Beaulieu,3,10,2026-07-02,08:23:10
+83,69 Centre social vent des lles,5,8,2026-07-02,08:23:10
+84,70 Clinique de l'Atlantique,5,8,2026-07-02,08:23:10
+85,71 Clos Margat,3,8,2026-07-02,08:23:10
+86,72 Stade de Périgny,4,6,2026-07-02,08:23:10
+87,73 Denfert Rochereau,4,8,2026-07-02,08:23:10
+88,77 Gare d'Aytré,4,8,2026-07-02,08:23:10
+89,56 Hôpital St Louis,5,10,2026-07-02,08:23:10
+90,79 Les Corsaires,4,8,2026-07-02,08:23:10
+91,80 La Pommeraie,5,8,2026-07-02,08:23:10
+92,81 Lab Intech,5,10,2026-07-02,08:23:10
+93,82 Lieutenant Bernier,5,8,2026-07-02,08:23:10
+94,83 Lycée Hotelier,2,8,2026-07-02,08:23:10
+95,84 Mairie d'Aytré,4,8,2026-07-02,08:23:10
+96,85 Mairie de Lagord,3,8,2026-07-02,08:23:10
+97,86 Musée Maritime,3,8,2026-07-02,08:23:10
+98,87 Normandin,4,8,2026-07-02,08:23:10
+99,88 Oiseaux de Mer,4,8,2026-07-02,08:23:10
+100,90 Porte Royale,3,8,2026-07-02,08:23:10
